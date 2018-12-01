@@ -41,7 +41,7 @@ var BuiltinSwearWords = map[string]bool{
 	"muff":        true,
 	"nigger":      true,
 	"nigga":       true,
-	"penis":       true,
+	"penis":       false,
 	"piss":        true,
 	"poop":        true,
 	"pube":        true,
